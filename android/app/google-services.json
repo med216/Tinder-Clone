@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451222381653",
+    "project_id": "tinderclone-de2ea",
+    "storage_bucket": "tinderclone-de2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451222381653:android:23a795e7442a23d407a0dc",
+        "android_client_info": {
+          "package_name": "com.example.hero_let_pack_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451222381653-q0s6k70fumqcu9ucpvm41i7ou003pjh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQPk_kgPRmxRGEq8DzjDsix1ffdelLnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451222381653-q0s6k70fumqcu9ucpvm41i7ou003pjh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
