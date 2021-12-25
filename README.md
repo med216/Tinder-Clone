@@ -1,10 +1,10 @@
 # Tinder Clone
 
-A new Flutter project.
+A new Flutter project (Tinder Clone).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application The Goal of this project is to Build a Flutter Tinder Clone with Firebase and BLoC.
 
 A few resources to get you started if this is your first Flutter project:
 
