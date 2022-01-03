@@ -1,4 +1,4 @@
-# hero_let_pack_game
+# Tinder clone
 
 A new Flutter project.
 
